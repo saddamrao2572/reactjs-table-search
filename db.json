@@ -1,0 +1,51 @@
+{ 
+    "customers":[
+      
+        {
+            "ID":"1",
+            "full_name":"Saddam Hussain",
+            "username":"sam",
+            "email":"saddamrao@gmail.com",
+            "gender":"male",
+            "phone":"0333 61888839",
+            "picture":"https://zpzen.us/img/sam.jpg"
+        },
+        {
+            "ID":"2",
+            "full_name":"Ali Hussain2",
+            "gender":"male",
+            "phone":"0333 61888839",
+            "username":"django",
+            "email":"abc@gmail.com2",
+            "picture":"https://zpzen.us/img/sam.jpg"
+        },
+        {
+            "ID":"3",
+            "full_name":"Hussain3",
+            "gender":"male",
+            "phone":"0333 61888839",
+            "username":"rao",
+            "email":"saddamrao@gmail.com3",
+            "picture":"https://zpzen.us/img/sam.jpg"
+        },
+        {
+            "ID":"4",
+            "full_name":"Saddam Hussain",
+            "gender":"male",
+            "phone":"0333 61888839",
+            "username":"abc",
+            "email":"saddamrao@gmail.com",
+            "picture":"https://zpzen.us/img/sam.jpg"
+        },
+        {
+            "ID":"5",
+            "full_name":"Aq Hussain",
+            "gender":"male",
+            "phone":"0333 614888839",
+            "username":"cds",
+            "email":"san@gmail.com",
+            "picture":"https://zpzen.us/img/sam.jpg"
+        }
+    ]
+   
+}
